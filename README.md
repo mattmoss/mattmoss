@@ -1,4 +1,10 @@
-### Hi there 👋
+
+I'm a member of the Grails & Micronaut Team with [Object Computing, Inc.](https://github.com/objectcomputing/)
+
+[![2GM Team](img/oci_2gm_logo.png)](https://objectcomputing.com/products/2gm-team)
+
+    $ cat /dev/bio
+    Coming soon...
 
 <!--
 **mattmoss/mattmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
