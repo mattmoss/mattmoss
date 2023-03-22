@@ -1,8 +1,3 @@
-
-I'm a member of the Grails & Micronaut Team with [Object Computing, Inc.](https://github.com/objectcomputing/)
-
-[![2GM Team](img/oci_2gm_logo.png)](https://objectcomputing.com/products/2gm-team)
-
     $ cat /dev/bio
     Coming eventually...
 
